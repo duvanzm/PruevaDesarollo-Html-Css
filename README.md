@@ -3,7 +3,7 @@
 Instrucciones para clonar y visualizar el proyecto:
 
 - Clona o descarga este repositorio https://github.com/duvanzm/PruevaDesarollo-Html-Css
-- Abra la carpeta "PruevaDesarollo-Html-Css"
+- Abra la carpeta "PruevaDesarollo"
 - Abra el archivo index.html en su navegador
 - No se requieren dependencias ni configuraciones adicionales
 
